@@ -14,7 +14,7 @@
 
 ### 1-2. 현재 진행중인 책
 * 핸즈온 머신러닝 2판(Aurélien Géron 저, 박해선 역)
-    * [YouTube-1](https://www.youtube.com/playlist?list=PL3vETZ0d3GBwkKbCZlYB2Enbp96IOmonq): Part 1. 머신 러닝 실습 동영상(업로드 완료)
+    * [YouTube-1](https://www.youtube.com/playlist?list=PL3vETZ0d3GBxGp8lJKeBmjpBmVxdBkACz): Part 1. 머신 러닝 실습 동영상(업로드 완료)
     * [YouTube-2](https://www.youtube.com/playlist?list=PL3vETZ0d3GBx_1fO3tTRx3cepwGbq7Qxe): Part 2. 딥러닝 실습 동영상(Chapter 12. 까지 업로드)
     * [GitHub](https://github.com/vook-tv/handson_ml_2nd): 수정 된 소스 코드 공유(Chapter 12. 까지)
 * 파이썬으로 배우는 머신러닝의 교과서(이토 마코토 저, 박광수:아크몬드 역)
@@ -35,3 +35,6 @@
 * 대면 수업의 "실시간 인터랙션", 비대면 온라인의 "가능한 시간에 아무곳에서나"의 장점을 결합
 * 올해 각 대학과의 실시간 비대면 수업에서 얻은 노하우를 활용
 * 조만간 수요 조사 예정(문의: chan@datacrush.ai)
+
+#### vook.tv란?
+Video, Visual, Vision의 V와 Book 그리고 .tv 도메인을 합성한 이름으로 [Data Crush(datacrush.ai)](https://datacrush.ai)에서 새롭게 추진하는 프로젝트 채널의 이름이자 [도메인(vook.tv)](https://vook.tv)입니다.
